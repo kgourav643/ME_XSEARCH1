@@ -66,7 +66,7 @@ public class TestCases {
         Thread.sleep(10000);
         WebElement searchBox = driver.findElement(By.id("twotabsearchtextbox"));
 
-        searchBox.sendKeys("Laptop");
+        searchBox.sendKeys("laptop");
         searchBox.sendKeys(Keys.ENTER);
         Thread.sleep(10000);
 
