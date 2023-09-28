@@ -15,6 +15,7 @@
       }
     ],
     "error_out": "Launch the Amazon India website",
+    "is_enabled": true,
     "hint": "Ensure you go to amazon india website"
   },
   {
@@ -32,6 +33,7 @@
       }
     ],
     "error_out": "Get the url of the page",
+    "is_enabled": true,
     "hint": "Ensure you check the url of the page"
   },
   {
@@ -49,6 +51,7 @@
       }
     ],
     "error_out": "Enter a search term \"laptop\" in search bar",
+    "is_enabled": true,
     "hint": "Ensure you are sending laptop into the searchbar"
   },
   {
@@ -66,6 +69,7 @@
       }
     ],
     "error_out": "Assert that the resulting page contains the search term",
+    "is_enabled": true,
     "hint": "Ensure you are checking if \"Laptop\" is in the search result titles or descriptions"
   },
   {
@@ -83,6 +87,7 @@
       }
     ],
     "error_out": "Click on a category from the navigation menu",
+    "is_enabled": true,
     "hint": "Ensure you are clicking on the navigation menu bar item \"Electronics\""
   },
   {
@@ -100,6 +105,7 @@
       }
     ],
     "error_out": "Assert that the resulting page corresponds to the clicked category",
+    "is_enabled": true,
     "hint": "Ensure you are checking the url of the page for \"Electronics\""
   }
 ]
